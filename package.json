@@ -1,0 +1,41 @@
+{
+  "name": "college__sims",
+  "version": "0.0.1",
+  "description": "A College Sims",
+  "productName": "College Sims",
+  "author": "Janlord Luga <janlord.luga@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^2.0.0",
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.21.1",
+    "cordova": "11",
+    "global": "^4.4.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "pinia": "^2.0.29",
+    "qrcode": "^1.5.3",
+    "quasar": "^2.6.0",
+    "vue": "^3.3.4",
+    "vue-pdf": "^4.3.0",
+    "vue-print-nb": "^1.7.5",
+    "vue-qrcode-reader": "^5.3.5",
+    "vue-router": "^4.0.0",
+    "vue3-print-nb": "^0.1.4",
+    "vue3-qr-reader": "^1.0.0",
+    "vuex": "^4.0.1"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.14"
+  },
+  "engines": {
+    "node": "^18 || ^16 || ^14.19",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
